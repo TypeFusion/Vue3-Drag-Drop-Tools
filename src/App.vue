@@ -17,7 +17,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       <HelloWorld msg="You did it!" />
 
       <nav>
-        <RouterLink to="/dnd">DND</RouterLink>
+        <RouterLink to="/">DND</RouterLink>
         <RouterLink to="/dnd2">DND2</RouterLink>
       </nav>
     </div>

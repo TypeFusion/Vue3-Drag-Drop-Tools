@@ -19,6 +19,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       <nav>
         <RouterLink to="/">DND</RouterLink>
         <RouterLink to="/dnd2">DND2</RouterLink>
+        <RouterLink to="/draggable">draggable</RouterLink>
       </nav>
     </div>
   </header>

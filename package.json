@@ -12,12 +12,14 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@codemirror/lang-json": "^6.0.1",
+    "@codemirror/theme-one-dark": "^6.1.2",
     "@vueuse/core": "^9.12.0",
+    "codemirror": "^6.0.1",
     "pinia": "^2.0.28",
-    "react-dnd-html5-backend": "^16.0.1",
     "vue": "^3.2.45",
+    "vue-codemirror": "^6.1.1",
     "vue-router": "^4.1.6",
-    "vue3-dnd": "^2.0.2",
     "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
